@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "dois",
+    "attributes": {
+      "prefix": "10.80335",
+      "creators": [{
+        "name": "Matthias Liffers"
+      }],
+      "titles": [{
+        "title": "Flooble"
+      }],
+      "publisher": "ARDC",
+      "publicationYear": 2021,
+      "types": {
+        "resourceTypeGeneral": "Dataset"
+      },
+      "url": "https://schema.datacite.org/meta/kernel-4.0/index.html",
+      "schemaVersion": "http://datacite.org/schema/kernel-4"
+    }
+  }
+}

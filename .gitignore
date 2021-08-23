@@ -1,0 +1,6 @@
+*
+!.gitignore
+!datacite-api.ipynb
+!datacite-api-config.example.json
+!metadata.example.json
+!README.md
