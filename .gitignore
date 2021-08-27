@@ -1,6 +1,8 @@
 *
 !.gitignore
+!datacite-api-singletons.ipynb
 !datacite-api.ipynb
 !datacite-api-config.example.json
 !metadata.example.json
+!data-retention.example.json
 !README.md

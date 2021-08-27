@@ -1,0 +1,48 @@
+{
+    "data": {
+        "id": "10.80335/1337",
+        "type": "dois",
+        "attributes": {
+            "doi": "10.80335/1337",
+            "prefix": "10.80335",
+            "suffix": "1337",
+            "creators": [{
+                "name": "Liffers, Matthias",
+                "nameType": "Personal",
+                "givenName": "Matthias",
+                "familyName": "Liffers",
+                "affiliation": ["Australian Research Data Commons"],
+                "nameIdentifiers": [{
+                    "schemeUri": "https://orcid.org",
+                    "nameIdentifier": "https://orcid.org/0000-0002-3639-2080",
+                    "nameIdentifierScheme": "ORCID"
+                }]
+            }],
+            "titles": [{
+                "lang": "en",
+                 "title": "Let's party like it's nineteen ninety nine."
+            }],
+            "publisher": "Australian Research Data Commons",
+            "publicationYear": "2021",
+            "subjects": [{
+                "subject": "080799",
+                "valueUri": "https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/1297.0Main+Features12008?OpenDocument",
+                "schemeUri": "https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup",
+                "subjectScheme": "AUSNZ Standard Research Classification Scheme"
+            }],
+            "types": {
+                "resourceType": "Census Data",
+                "resourceTypeGeneral": "Dataset"
+            },
+            "sizes": ["1 TB"],
+            "rightsList": [{
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }],
+           "url": "https://schema.datacite.org/meta/kernel-4.0/index.html"
+        }
+    }
+}
