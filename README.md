@@ -21,7 +21,7 @@ SWAN is not intended for intensive workloads so can sometimes take a little time
 
 ## Creating a copy of the notebook
 
-1. Go to AARNet CloudStor SWAN and log in with your AAF (institutional) credentials.
+1. Go to (AARNet CloudStor SWAN)[https://cloudstor.aarnet.edu.au/plus/apps/swanviewer/home] and log in with your AAF (institutional) credentials.
 2. Start a SWAN session
 3. From the Launcher, open a Terminal (if you don't see the Launcher select File -> New Launcher)
 4. At the command prompt, copy and paste (`Ctrl` or `Cmd` + `v`) the following commands, one line at a time:
