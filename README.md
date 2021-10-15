@@ -43,5 +43,6 @@ git clone https://github.com/au-research/datacite-api-notebook
 4. At the command prompt, copy and paste (`Ctrl` or `Cmd` + `v`) the following commands, one line at a time:
 ```
 cd cloudstor/datacite-api-notebook
+git checkout .
 git pull
 ```
