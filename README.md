@@ -6,6 +6,8 @@ This repository contains a Python Jupyter notebook and associated files that can
 * Publish draft DOIs
 * Hide published DOIs
 * Delete draft DOIs
+* Download metadata for existing DOIs
+* "Sanitise" downloaded metadata to...
 * Update metadata for existing DOIs
 
 Use of this notebook requires you to be a DataCite Member and have a username and password to access the API. This is the same username and password you use to
