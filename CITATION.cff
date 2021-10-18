@@ -10,3 +10,4 @@ version: 0.1.0
 date-released: 2021-10-18
 license: "Apache-2.0"
 url: https://github.com/au-research/datacite-api-notebook
+doi: 10.5281/zenodo.5574653
