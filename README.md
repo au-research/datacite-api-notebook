@@ -19,9 +19,15 @@ See the notebook itself `datacite-api.ipynb` for embedded documentation on how t
 
 It was developed on AARNet's CloudStor SWAN platform with the intention to remove as many barriers to reuse as possible.
 
+# Disclaimer
+
+DOIs are persistent identifiers and, like puppies, need to be cared for on a long-term basis. This notebook is intended to be a demonstration of the DataCite
+API's capabilities and is not suitable for incorporation into data workflows. Ideally, DOI operations should be integrated into existing (or new) sustainable
+data repositories.
+
 # Getting started
 
-SWAN is not intended for intensive workloads so can sometimes take a little time to complete tasks.
+SWAN is not intended for intensive workloads so can sometimes take a little time to complete tasks. This notebook can run in any suitably-configured Jupyter environment.
 
 ## Creating a copy of the notebook
 
