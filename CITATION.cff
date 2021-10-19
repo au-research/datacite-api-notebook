@@ -1,13 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this notebook, please cite it using these metadata."
 authors:
-  - affiliation: Australian Research Data Commons
-    family-names: Liffers
-    given-names: Matthias
+  - affiliation: "Australian Research Data Commons"
+    family-names: "Liffers"
+    given-names: "Matthias"
     orcid: https://orcid.org/0000-0002-3639-2080
-title: "ARDC Datacite API Jupyter notebook"
+title: "ARDC DataCite API Jupyter notebook"
 version: 0.1.0
 date-released: 2021-10-18
 license: "Apache-2.0"
 url: https://github.com/au-research/datacite-api-notebook
+identifiers:
+  - description: "This is the collection of archived snapshots of of ARDC DataCite API Jupyter notebook"
+    type: doi
+    value: "10.5281/zenodo.5574652"
+  - description: "This is the archived snapshot of version 0.1.0 of ARDC DataCite API Jupyter notebook"
+    type: doi
+    value: "10.5281/zenodo.5574653"
 doi: 10.5281/zenodo.5574653

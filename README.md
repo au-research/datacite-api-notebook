@@ -1,3 +1,5 @@
+[![CITATION.cff](https://github.com/mpfl/datacite-api-notebook/actions/workflows/main.yml/badge.svg)](https://github.com/mpfl/datacite-api-notebook/actions/workflows/main.yml)
+
 # DataCite API notebook
 
 This repository contains a Python Jupyter notebook and associated files that can interact with the DataCite Member API to perform the following functions:
