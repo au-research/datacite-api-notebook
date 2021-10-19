@@ -1,4 +1,4 @@
-[![CITATION.cff](https://github.com/mpfl/datacite-api-notebook/actions/workflows/main.yml/badge.svg)](https://github.com/mpfl/datacite-api-notebook/actions/workflows/main.yml)
+[![CITATION.cff](https://github.com/au-research/datacite-api-notebook/actions/workflows/main.yml/badge.svg)](https://github.com/au-research/datacite-api-notebook/actions/workflows/main.yml)
 
 # DataCite API notebook
 
