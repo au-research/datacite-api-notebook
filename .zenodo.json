@@ -1,5 +1,5 @@
 {
-    "description": "<p>This Jupyter notebook presents a low-barrier entry to using the DataCite REST API to mint, update, publish, and deleted DOIs and their associated metadata.</p><p>It was designed specifically to not use any third-party libraries so that it can be reused in almost any Jupyter notebook environment</p><p>Code is presented alongside human readable comments that explain the use of each component of the notebook.", 
+    "description": "<p>This Jupyter notebook presents a low-barrier entry to using the DataCite REST API to mint, update, publish, and deleted DOIs and their associated metadata.</p><p>It was designed specifically to not use any third-party libraries so that it can be reused in almost any Jupyter notebook environment</p><p>Code is presented alongside human readable comments that explain the use of each component of the notebook.</p><p>This notebook was originally developed to support the Australian Research Data Commons' Data Retention program.", 
     "license": "Apache-2.0", 
     "title": "ARDC Datacite API Jupyter notebook", 
     "upload_type": "software",
