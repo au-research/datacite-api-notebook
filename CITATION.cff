@@ -11,10 +11,10 @@ date-released: 2021-10-18
 license: "Apache-2.0"
 url: https://github.com/au-research/datacite-api-notebook
 identifiers:
-  - description: "This is the collection of archived snapshots of of ARDC DataCite API Jupyter notebook"
+  - description: "Collection of archived snapshots of of ARDC DataCite API Jupyter notebook"
     type: doi
     value: "10.5281/zenodo.5574652"
-  - description: "This is the archived snapshot of version 0.1.0 of ARDC DataCite API Jupyter notebook"
+  - description: "Archived snapshot of version 0.1.0 of ARDC DataCite API Jupyter notebook"
     type: doi
     value: "10.5281/zenodo.5574653"
 doi: 10.5281/zenodo.5574653

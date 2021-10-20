@@ -2,7 +2,8 @@
 
 # DataCite API notebook
 
-This repository contains a Python Jupyter notebook and associated files that can interact with the DataCite Member API to perform the following functions:
+This repository contains a Python Jupyter notebook and associated files that can interact with the [DataCite Member REST API](https://support.datacite.org/reference/introduction)
+to perform the following functions:
 
 * Mint draft DOIs
 * Publish draft DOIs
