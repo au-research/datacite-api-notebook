@@ -1,4 +1,5 @@
 [![CITATION.cff](https://github.com/au-research/datacite-api-notebook/actions/workflows/main.yml/badge.svg)](https://github.com/au-research/datacite-api-notebook/actions/workflows/main.yml)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/au-research/datacite-api-notebook/blob/main/datacite-api.ipynb)
 
 # DataCite API notebook
 
