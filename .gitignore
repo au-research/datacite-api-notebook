@@ -2,6 +2,8 @@
 !.gitignore
 !datacite-api-singletons.ipynb
 !datacite-api.ipynb
+!how-many-igsns.ipynb
+!make-metadata-records.ipynb
 !datacite-api-config.example.json
 !metadata.example.json
 !data-retention.example.json
